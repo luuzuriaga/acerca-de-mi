@@ -31,12 +31,12 @@ body {
 
 .header-title {
   font-family: 'Permanent Marker', cursive;
-  font-size: 160px;  /* Aumentar tamaño de letra */
+  font-size: 160px;
   color: white;
   text-transform: uppercase;
   font-weight: 500;
   margin: 0;
-  text-align: center; /* Centrando el texto */
+  text-align: center;
 }
 
 .overlay {
